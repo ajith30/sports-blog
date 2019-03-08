@@ -26,7 +26,7 @@ SECRET_KEY = 'alsj9)8vm1qpy2)3%2f!ook114ukzv91aw+vmzu0e+gu-t50z2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['aqueous-garden-45943.herokuapp.com']
 
 
 # Application definition
